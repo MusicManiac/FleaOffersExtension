@@ -1,0 +1,154 @@
+{
+	"maxActiveOfferCount": [
+        {
+          "count": 1,
+          "from": -10000,
+          "to": -2
+        },
+        {
+          "count": 1,
+          "from": -2,
+          "to": 0.2
+        },
+        {
+          "count": 2,
+          "from": 0.2,
+          "to": 5
+        },
+        {
+          "count": 3,
+          "from": 5,
+          "to": 10
+        },
+        {
+          "count": 4,
+          "from": 10,
+          "to": 15
+        },
+        {
+          "count": 5,
+          "from": 15,
+          "to": 20
+        },
+        {
+          "count": 6,
+          "from": 20,
+          "to": 25
+        },
+        {
+          "count": 7,
+          "from": 25,
+          "to": 30
+        },
+        {
+          "count": 8,
+          "from": 30,
+          "to": 35
+        },
+        {
+          "count": 9,
+          "from": 35,
+          "to": 40
+        },
+        {
+          "count": 10,
+          "from": 40,
+          "to": 45
+        },
+        {
+          "count": 11,
+          "from": 45,
+          "to": 50
+        },
+        {
+          "count": 12,
+          "from": 50,
+          "to": 60
+        },
+        {
+          "count": 13,
+          "from": 60,
+          "to": 70
+        },
+        {
+          "count": 14,
+          "from": 70,
+          "to": 80
+        },
+        {
+          "count": 15,
+          "from": 80,
+          "to": 90
+        },
+        {
+          "count": 16,
+          "from": 90,
+          "to": 100
+        },
+        {
+			"count": 17,
+			"from": 100,
+			"to": 120
+		},
+		{
+			"count": 18,
+			"from": 120,
+			"to": 140
+		},
+		{
+			"count": 19,
+			"from": 140,
+			"to": 160
+		},
+		{
+			"count": 20,
+			"from": 160,
+			"to": 180
+		},
+		{
+			"count": 21,
+			"from": 180,
+			"to": 200
+		},
+		{
+			"count": 22,
+			"from": 200,
+			"to": 230
+		},
+		{
+			"count": 23,
+			"from": 230,
+			"to": 260
+		},
+		{
+			"count": 24,
+			"from": 260,
+			"to": 290
+		},
+		{
+			"count": 25,
+			"from": 290,
+			"to": 320
+		},
+		{
+			"count": 26,
+			"from": 320,
+			"to": 350
+		},
+		{
+			"count": 27,
+			"from": 350,
+			"to": 380
+		},
+		{
+			"count": 28,
+			"from": 380,
+			"to": 410
+		},
+		{
+			"count": 30,
+			"from": 410,
+			"to": 10000
+		}
+      ]
+}
